@@ -5,8 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I'm Machine Learning Engineer with passion for analytics, model development and visualization!`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
-
+export const ABOUT_TEXT = "I'm a dedicated and versatile Machine Learning Engineer with a knack for creating smart and efficient models. With 3 years in the game, I've played around with Python, TensorFlow, PyTorch, Scikit-learn, and Keras. My ML journey started with a burning curiosity about turning data into gold (or at least some neat insights), and now it's my daily grind to keep learning and tackling new challenges. I specialize in deep learning and data visualization, making sense of complex data and presenting it in a way that's easy on the eyes. I love working with teams, cracking tough problems, and delivering top-notch solutions. When I'm not buried in code, you'll find me playing football, geeking out over new tech, or reading books."
 export const EXPERIENCES = [
   {
     year: "2023 - Present",
@@ -70,7 +69,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Lahore, Pakistan ",
+  phoneNo: "+92 316 4305897",
+  email: "kashanabdullah19@gmail.com",
 };
