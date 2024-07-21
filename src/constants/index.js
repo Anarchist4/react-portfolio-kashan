@@ -11,15 +11,15 @@ export const EXPERIENCES = [
     year: "2023 - Present",
     role: "ML Engineer",
     company: "Freelance",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Python","ComputerVision","DeepLearning"],
+    description: "Independently developed a computer vision solution improving image recognition accuracy by 20%. Created a custom anomaly detection algorithm for time-series data, reducing false positives by 30%. Handled end-to-end ML projects, ensuring efficient deployment and seamless integration with client systems.",
+    technologies: ["Python","Computer Vision","Deep Learning"],
   },
   {
     year: "2022 - 2023",
     role: "Associate Data Scientist",
     company: "Programmers Force",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["ComputerVision","DataAnalysis","NoSQL"],
+    description: "Enhanced computer vision model accuracy by 18% and optimized development workflows with Ubuntu WSL, cutting development time by 20%. Developed Flask APIs and applied advanced neural network architectures to improve object detection accuracy by 30%.",
+    technologies: ["Computer Vision","Data Analysis","NoSQL"],
   },
 //  {
 //     year: "2021 - 2022",
@@ -39,33 +39,33 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Classification Using Transfer Learning",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    "Diverse Image Classification: Developed a deep learning model to classify 100k images of sandals, shoes, and boots using transfer learning.",
+    technologies: ["Python","Deep Learning","Transfer Learning","Image Classification"],
   },
   {
-    title: "Task Management App",
+    title: "License Plate detection",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "License Plate Detection using OpenCV and EasyOCR.This project Detects and recognize license plates from images using OpenCV and EasyOCR libraries.",
+    technologies: ["Python","OpenCV","EasyOCR","License Plate Detection"],
   },
   {
-    title: "Portfolio Website",
+    title: "Netflix Dashboard",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "Created an interactive Netflix dashboard using Power BI to visualize key metrics such as viewer demographics, popular genres, and watch trends. Enabled data-driven insights for content strategy and user engagement analysis.",
+    technologies: ["SQL", "Data Analysis", "Power Bi"],
   },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
-  },
+  // {
+  //   title: "Blogging Platform",
+  //   image: project4,
+  //   description:
+  //     "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+  //   technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+  // },
 ];
 
 export const CONTACT = {
